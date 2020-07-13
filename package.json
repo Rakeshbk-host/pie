@@ -1,0 +1,15 @@
+{
+  "name": "piecharts",
+  "version": "1.0.0",
+  "description": "Pie Charts Using Chart Js",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Rakesh B K",
+  "license": "ISC",
+  "homepage":"https://github.com/Rakeshbk-host/pie.git",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
